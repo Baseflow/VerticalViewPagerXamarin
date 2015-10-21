@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerticalViewPagerXamarin", "VerticalViewPagerXamarin\VerticalViewPagerXamarin.csproj", "{C98E8770-68F4-48B3-B037-B9BA6FDB1C80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerticalViewPagerXamarin.Sample", "VerticalViewPagerXamarin.Sample\VerticalViewPagerXamarin.Sample.csproj", "{7E064007-EB5A-4861-AFEA-673E043B7464}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E064007-EB5A-4861-AFEA-673E043B7464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E064007-EB5A-4861-AFEA-673E043B7464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E064007-EB5A-4861-AFEA-673E043B7464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E064007-EB5A-4861-AFEA-673E043B7464}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C98E8770-68F4-48B3-B037-B9BA6FDB1C80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C98E8770-68F4-48B3-B037-B9BA6FDB1C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C98E8770-68F4-48B3-B037-B9BA6FDB1C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C98E8770-68F4-48B3-B037-B9BA6FDB1C80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
