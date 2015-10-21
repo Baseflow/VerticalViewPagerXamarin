@@ -3,6 +3,8 @@
 Vertically ViewPager and vertically transformer for Android.
 This library is not copy ViewPager code. Extended class.
 
+Plugin is available on [Nuget](https://www.nuget.org/packages/Xam.Plugins.Android.VerticalViewPagerXamarin/)
+
 ![default](art/default.gif) ![zoom_out](art/zoom_out.gif) ![stack](art/stack.gif)
 
 Documentation
@@ -38,7 +40,7 @@ See the Sample app for more details.
 Acknowledgements
 =======
 
-* [kaelaela](https://github.com/kaelaela) for creating the library
+* [kaelaela](https://github.com/kaelaela) for creating the [library](https://github.com/kaelaela/VerticalViewPager)
 
 License
 -------
